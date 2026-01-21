@@ -6,7 +6,7 @@ A full-stack web application for managing hospital operations including patient 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Tech Stack](#tech-stack)5
+- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -171,19 +171,6 @@ Hospital-Management-System/
 │
 └── README.md
 ```
-
-## 📸 Screenshots
-
-> Add screenshots of your application here when available
-
-### Login Page
-![Login Page](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Appointment Booking
-![Appointments](screenshots/appointments.png)
 
 ## 🔐 API Endpoints
 
